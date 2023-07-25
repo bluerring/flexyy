@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43109610848",
+    "project_id": "flexyy-ebbe3",
+    "storage_bucket": "flexyy-ebbe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43109610848:android:546132396d40ee5b995a05",
+        "android_client_info": {
+          "package_name": "com.example.flexyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43109610848-ehn8r58mi53rn648mks546pqh15tplk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJpRzxQ2EmJf5fJ85wNnQDS1oUNzY6jZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43109610848-ehn8r58mi53rn648mks546pqh15tplk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
